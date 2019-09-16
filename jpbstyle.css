@@ -1,5 +1,6 @@
 body {background-color:lightblue; background-image: url("mybackground.jpg");}
+#banner1 {align:center; margin-left: auto; margin-right: auto;}
 #navbuttons {width:800px; margin-left: auto; margin-right: auto;}
 #nav-td {width:200px; text-align:center;}
-#h1-title {width:800px; text-align:center;}
-#parag {width:800px; text-align:center}
+#h1-title {width:800px; text-align:center; margin-left: auto; margin-right: auto;}
+#parag {width:800px; text-align:center; margin-left: auto; margin-right: auto;}
