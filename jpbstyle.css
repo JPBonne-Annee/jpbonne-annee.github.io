@@ -1,5 +1,5 @@
 body {background-color:lightblue; background-image: url("mybackground.jpg");}
-#banner1 {align:center; margin-left: auto; margin-right: auto; width:800px;}
+#banner1 {align:center; display: block; margin-left: auto; margin-right: auto; width:800px;}
 #navbuttons {width:800px; margin-left: auto; margin-right: auto;}
 #nav-td {width:200px; text-align:center;}
 #h1-title {width:800px; text-align:center; margin-left: auto; margin-right: auto;}
